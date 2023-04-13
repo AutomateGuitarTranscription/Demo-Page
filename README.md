@@ -1,6 +1,7 @@
 ---
-title: "End-to-End Automated Guitar Transcription with Deep Learning"
+title: "End-to-End Automated Guitar Transcription"
 permalink: /
+author: "David Kurzendörfer and Christian Hepting"
 layout: default
 ---
 
@@ -12,14 +13,14 @@ layout: default
 
 
 
-This is the demo page for the paper **Towards Automatic Transcription of Polyphonic Electric Guitar Music: A new Dataset and A Multi-loss Transformer Model**
+This is the demo page for the practical machine learning course at the university of Tuebingen **End-to-End Automated Guitar Transcription with Deep Learning**
 
 ## Abstract
-In this paper, we propose a new dataset named EGDB, that contains transcriptions of the electric guitar performance of 240 tablatures rendered with different tones. Moreover, we benchmark theperformance of two well-known transcription models proposed originally for the piano on this dataset, along with a multi-loss Transformer model that we newly propose. Our evaluation on this dataset and a separate set of real-world recordings demonstrate the influenceof timbre on the accuracy of guitar sheet transcription, the potentialof using multiple losses for Transformers, as well as the room forfurther improvement for this task.
+We propose an end-to-end automated guitar transcription method that generates a human-readable transcription from guitar sound to tablature notation. We incorporate knowledge from guitar transcription models of the previous years and address their issues. Most previous work on tablature transcription doesn't tackle onset estimation. The main contribution of this paper is the conjunction of frame-level tablature estimation and true onset estimation, enabling the generation of MIDI files and tablature. We employ a multi-task learning setup, in which frame-level tablature estimation and frame-level onset estimation are performed simultaneously. The model architecture consists of a tablature and an onset stack, that both contain convolutional layers, transformer blocks, and feedforward networks. We train and evaluate our method on GuitarSet. We demonstrate that our method is competitive with baseline tablature transcription models, while achieving a high onset estimation performance.
 
 
-### Training Data Sample
-Audio are sampled from training split with different timbre in each column.
+<!-- ### Training Data Sample
+Audio are sampled from training split with different timbre in each column. -->
 
 <!-- |   |DI|Marshall|Fender-twins|Mesa|
 |1.|<audio src="Guitar_Transcription_sample/Training/0701_3_c_DI.wav" controls="" preload=""></audio>|<audio src="Guitar_Transcription_sample/Training/0701_3_c_marshall.wav" controls="" preload=""></audio>|<audio src="Guitar_Transcription_sample/Training/0701_3_c_ft.wav" controls="" preload=""></audio>|<audio src="Guitar_Transcription_sample/Training/0701_3_c_mesa.wav" controls="" preload=""></audio>|
@@ -42,5 +43,5 @@ Audio are sampled from training split with different timbre in each column.
 <!-- ### Dataset
 <a href="https://drive.google.com/drive/folders/1ZEy5dytEDquxyf_WYDhKgadSCgPsq_tD?usp=sharing">Google Drive Link</a> -->
 
-### Contact
-Yu-Hua Chen f08946011@ntu.edu.tw
+<!-- ### Contact
+Yu-Hua Chen f08946011@ntu.edu.tw -->
