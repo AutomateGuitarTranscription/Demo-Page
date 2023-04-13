@@ -1,8 +1,11 @@
 ---
-title: "Make a Website with Only Markdown"
+title: "End-to-End Automated Guitar Transcription with Deep Learning"
+description: false
 permalink: /
 layout: default
 ---
+
+
 
 
 <!-- # End-to-End Automated Guitar Transcription with Deep Learning
