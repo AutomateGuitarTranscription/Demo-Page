@@ -1,11 +1,14 @@
-<!-- # End-to-End Automated Guitar Transcription with Deep Learning
-## subtitle -->
-
 ---
 title: "Make a Website with Only Markdown"
 permalink: /
 layout: default
 ---
+
+
+<!-- # End-to-End Automated Guitar Transcription with Deep Learning
+## subtitle -->
+
+
 
 This is the demo page for the paper **Towards Automatic Transcription of Polyphonic Electric Guitar Music: A new Dataset and A Multi-loss Transformer Model**
 
