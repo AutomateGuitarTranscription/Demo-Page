@@ -1,6 +1,5 @@
 ---
 title: "End-to-End Automated Guitar Transcription with Deep Learning"
-description: ""
 permalink: /
 layout: default
 ---
