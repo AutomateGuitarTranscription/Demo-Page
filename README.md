@@ -1,9 +1,9 @@
----
+<!-- ---
 title: "End-to-End Automated Guitar Transcription"
 permalink: /
 author: "David Kurzendörfer and Christian Hepting"
 layout: default
----
+--- -->
 
 
 
