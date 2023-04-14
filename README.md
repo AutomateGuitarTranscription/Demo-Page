@@ -22,7 +22,7 @@ We propose an end-to-end automated guitar transcription method that generates a 
 <!-- ![Model Architecture](assets/model_diagram.png) -->
 <img src="assets/model_diagram.png" alt="Model Architecture" style="height: 50%; width:50%;"/>
 
-### Transcription for
+### Transcriptions for GuitarSet
 
 |Source|Proposed model|
 |<audio src="transcription_samples/GuitarSet/03_Jazz2-110-Bb_comp_mic/03_Jazz2-110-Bb_comp_mic.wav" controls="" preload=""></audio>|<audio src="transcription_samples/GuitarSet/03_Jazz2-110-Bb_comp_mic/03_Jazz2-110-Bb_comp_mic_prediction.wav" controls="" preload=""></audio>|
@@ -39,7 +39,18 @@ We propose an end-to-end automated guitar transcription method that generates a 
 
 ### Transcriptions on the Guitar Pro dataset
 
+
 ### Trancriptions from phone recorings
+
+|Source|Proposed model|
+|<audio src="transcription_samples/phone_recordings/Acg/Acg.wav" controls="" preload=""></audio>|<audio src="transcription_samples/phone_recordings/Acg/Acg_prediction.wav" controls="" preload=""></audio>|
+|<audio src="transcription_samples/phone_recordings/Am/Am.wav" controls="" preload=""></audio>|<audio src="transcription_samples/phone_recordings/Am/Am_prediction.wav" controls="" preload=""></audio>|
+|<audio src="transcription_samples/phone_recordings/Dangerously/Dangerously.wav" controls="" preload=""></audio>|<audio src="transcription_samples/phone_recordings/Dangerously/Dangerously_prediction.wav" controls="" preload=""></audio>|
+|<audio src="transcription_samples/phone_recordings/Ignite/Ignite.wav" controls="" preload=""></audio>|<audio src="transcription_samples/phone_recordings/Ignite/Ignite.wav" controls="" preload=""></audio>|
+|<audio src="transcription_samples/phone_recordings/Solo1/Solo1.wav" controls="" preload=""></audio>|<audio src="transcription_samples/phone_recordings/Solo1/Solo1_prediction.wav" controls="" preload=""></audio>|
+|<audio src="transcription_samples/phone_recordings/Solo2_1/Solo2_1.wav" controls="" preload=""></audio>|<audio src="transcription_samples/phone_recordings/Solo2_1/Solo2_1_prediction.wav" controls="" preload=""></audio>|
+|<audio src="transcription_samples/phone_recordings/Sungha_jung_1/Sungha_jung_1.wav" controls="" preload=""></audio>|<audio src="transcription_samples/phone_recordings/Sungha_jung_1/Sungha_jung_1_prediction.wav" controls="" preload=""></audio>|
+|<audio src="transcription_samples/phone_recordings/ThousandYears/ThousandYears.wav" controls="" preload=""></audio>|<audio src="transcription_samples/phone_recordings/ThousandYears/ThousandYears_prediction.wav" controls="" preload=""></audio>|
 
 
 <!-- ### Training Data Sample
