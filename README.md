@@ -25,17 +25,11 @@ We propose an end-to-end automated guitar transcription method that generates a 
 |Source|Proposed model|
 |<audio src="transcription_samples/GuitarSet/03_Jazz2-110-Bb_comp_mic/03_Jazz2-110-Bb_comp_mic.wav" controls="" preload=""></audio>|<audio src="transcription_samples/GuitarSet/03_Jazz2-110-Bb_comp_mic/03_Jazz2-110-Bb_comp_mic_prediction.wav" controls="" preload=""></audio>|
 |<audio src="transcription_samples/GuitarSet/03_SS1-68-E_comp_mic/03_SS1-68-E_comp_mic.wav" controls="" preload=""></audio>|<audio src="transcription_samples/GuitarSet/03_SS1-68-E_comp_mic/03_SS1-68-E_comp_mic_prediction.wav" controls="" preload=""></audio>|
-
 |<audio src="transcription_samples/GuitarSet/03_SS2-107-Ab_solo_mic/03_SS2-107-Ab_solo_mic.wav" controls="" preload=""></audio>|<audio src="transcription_samples/GuitarSet/03_SS2-107-Ab_solo_mic/03_SS2-107-Ab_solo_mic_prediction.wav" controls="" preload=""></audio>|
-
 |<audio src="transcription_samples/GuitarSet/04_BN2-166-Ab_comp_mic/04_BN2-166-Ab_comp_mic.wav" controls="" preload=""></audio>|<audio src="transcription_samples/GuitarSet/04_BN2-166-Ab_comp_mic/04_BN2-166-Ab_comp_mic_prediction.wav" controls="" preload=""></audio>|
-
 |<audio src="transcription_samples/GuitarSet/05_Jazz3-137-Eb_comp_mic/05_Jazz3-137-Eb_comp_mic.wav" controls="" preload=""></audio>|<audio src="transcription_samples/GuitarSet/05_Jazz3-137-Eb_comp_mic/05_Jazz3-137-Eb_comp_mic_prediction.wav" controls="" preload=""></audio>|
-
 |<audio src="transcription_samples/GuitarSet/05_Jazz3-137-Eb_solo_mic/05_Jazz3-137-Eb_solo_mic.wav" controls="" preload=""></audio>|<audio src="transcription_samples/GuitarSet/05_Jazz3-137-Eb_solo_mic/05_Jazz3-137-Eb_solo_mic_prediction.wav" controls="" preload=""></audio>|
-
 |<audio src="transcription_samples/GuitarSet/05_Rock1-130-A_comp_mic/05_Rock1-130-A_comp_mic.wav" controls="" preload=""></audio>|<audio src="transcription_samples/GuitarSet/05_Rock1-130-A_comp_mic/05_Rock1-130-A_comp_mic_prediction.wav" controls="" preload=""></audio>|
-
 |<audio src="transcription_samples/GuitarSet/05_Rock1-130-A_solo_mic/05_Rock1-130-A_solo_mic.wav" controls="" preload=""></audio>|<audio src="transcription_samples/GuitarSet/05_Rock1-130-A_solo_mic/05_Rock1-130-A_solo_mic_prediction.wav" controls="" preload=""></audio>|
 
 
