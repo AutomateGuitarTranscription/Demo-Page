@@ -13,14 +13,14 @@ layout: default
 
 
 
-This is the demo page for the practical machine learning course at the university of Tuebingen **End-to-End Automated Guitar Transcription with Deep Learning**
+<!-- This is the demo page for the practical machine learning course at the University of Tübingen. The  **End-to-End Automated Guitar Transcription with Deep Learning** -->
 
 ## Abstract
 We propose an end-to-end automated guitar transcription method that generates a human-readable transcription from guitar sound to tablature notation. We incorporate knowledge from guitar transcription models of the previous years and address their issues. Most previous work on tablature transcription doesn't tackle onset estimation. The main contribution of this paper is the conjunction of frame-level tablature estimation and true onset estimation, enabling the generation of MIDI files and tablature. We employ a multi-task learning setup, in which frame-level tablature estimation and frame-level onset estimation are performed simultaneously. The model architecture consists of a tablature and an onset stack, that both contain convolutional layers, transformer blocks, and feedforward networks. We train and evaluate our method on GuitarSet. We demonstrate that our method is competitive with baseline tablature transcription models, while achieving a high onset estimation performance.
 
 ### Model Architecture
 <!-- ![Model Architecture](assets/model_diagram.png) -->
-<img src="assets/model_diagram.png" alt="Model Architecture" style="height: 50%; width:50%;"/>
+<img src="assets/model_diagram.png" alt="Model Architecture" style="height: 45%; width:45%;"/>
 
 ### Transcriptions for GuitarSet
 
@@ -37,7 +37,6 @@ We propose an end-to-end automated guitar transcription method that generates a 
 
 
 
-### Transcriptions on the Guitar Pro dataset
 
 
 ### Trancriptions from phone recorings
