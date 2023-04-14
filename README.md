@@ -41,12 +41,13 @@ We propose an end-to-end automated guitar transcription method that generates a 
 
 
 ### Trancriptions from phone recorings
+The examples show that on phone recordings that sound very different than the recordings on GuitarSet, our model is not able to generate good transcriptions.
 
 |Source|Proposed model|
 |<audio src="transcription_samples/phone_recordings/Acg/Acg.wav" controls="" preload=""></audio>|<audio src="transcription_samples/phone_recordings/Acg/Acg_prediction.wav" controls="" preload=""></audio>|
 |<audio src="transcription_samples/phone_recordings/Am/Am.wav" controls="" preload=""></audio>|<audio src="transcription_samples/phone_recordings/Am/Am_prediction.wav" controls="" preload=""></audio>|
 |<audio src="transcription_samples/phone_recordings/Dangerously/Dangerously.wav" controls="" preload=""></audio>|<audio src="transcription_samples/phone_recordings/Dangerously/Dangerously_prediction.wav" controls="" preload=""></audio>|
-|<audio src="transcription_samples/phone_recordings/Ignite/Ignite.wav" controls="" preload=""></audio>|<audio src="transcription_samples/phone_recordings/Ignite/Ignite.wav" controls="" preload=""></audio>|
+|<audio src="transcription_samples/phone_recordings/Ignite/Ignite.wav" controls="" preload=""></audio>|<audio src="transcription_samples/phone_recordings/Ignite/Ignite_prediction.wav" controls="" preload=""></audio>|
 |<audio src="transcription_samples/phone_recordings/Solo1/Solo1.wav" controls="" preload=""></audio>|<audio src="transcription_samples/phone_recordings/Solo1/Solo1_prediction.wav" controls="" preload=""></audio>|
 |<audio src="transcription_samples/phone_recordings/Solo2_1/Solo2_1.wav" controls="" preload=""></audio>|<audio src="transcription_samples/phone_recordings/Solo2_1/Solo2_1_prediction.wav" controls="" preload=""></audio>|
 |<audio src="transcription_samples/phone_recordings/Sungha_jung_1/Sungha_jung_1.wav" controls="" preload=""></audio>|<audio src="transcription_samples/phone_recordings/Sungha_jung_1/Sungha_jung_1_prediction.wav" controls="" preload=""></audio>|
